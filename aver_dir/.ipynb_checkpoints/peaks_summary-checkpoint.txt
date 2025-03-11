@@ -1,0 +1,10 @@
+Summary of Peaks
+=================
+Peak 1:
+  Height: 1.0605655253683928
+  Amplitude: 1.667811105564773
+
+Peak 2:
+  Height: 1.35006563525271
+  Amplitude: 2.077107428727338
+
